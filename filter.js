@@ -1,4 +1,4 @@
-// filter holo condition check kore jgula pabe oigula k dibe sudhu
+// filter holo condition check kore jgula pabe oigula k dibe sudhu orthat condition true hole sobgula k dibe
 const num=[4,32,335,235,5364,36,8,45,433,777,888,8];
 const large=num.filter(n=>n>100);
 const tiny=num.filter(n=>n<100);
