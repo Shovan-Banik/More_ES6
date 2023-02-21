@@ -1,4 +1,4 @@
-// map moloto loop ar moto kaj kore...sudhu matro array te aita avialable ....array ar sob gula opadan niye kaj kore...abong retun kore finally
+// map moloto loop ar moto kaj kore...sudhu matro array te aita avialable ....array ar sob gula opadan niye kaj kore...abong array retun kore finally
 const numbers=[2,4,6,8,10];
 const double=num=>num*2;
 const makeDouble=numbers.map(double);

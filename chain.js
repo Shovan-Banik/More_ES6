@@ -14,5 +14,5 @@ const person={
         food: 'kodbell'
     }  
 }
-const personThana=person.person.addres?.thana[2];/* ? mark deya k bole optional chaining.....orthat ? ager object ta k na paile tmi bondo hye jao */
+const personThana=person.person.addres?.thana[2];/* ? mark deya k bole optional chaining.....orthat ? ager object ta k na paile tmi bondo hye jao .....sadharonoto error skip krte bebohar ka hy*/
 console.log(personThana);
